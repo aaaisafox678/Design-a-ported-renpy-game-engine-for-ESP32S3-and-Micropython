@@ -1,0 +1,1 @@
+# MicroPython: renpy/common/__init__.py
